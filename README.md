@@ -1,9 +1,11 @@
 <p align="center"> <img src="https://github.com/OPTRONIX-10/OPTRONIX-10/assets/96733325/3842d53f-4f1c-490d-93b8-dff2ffaf64e2" /> </p>
 <h1 align="center">Hi 👋, I'm K S ABHISHEK</h1>
 <h3 align="center">Building Beautiful Interfaces with Flutter Magic!</h3>
-<img align="right" alt="Coding" width="270" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=optronix-10&label=Profile%20views&color=0e75b6&style=flat" alt="optronix-10" /> </p>
+
+<img align="right" alt="Coding" width="200" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
 
 - 💬 Ask me about **Flutter**
 
