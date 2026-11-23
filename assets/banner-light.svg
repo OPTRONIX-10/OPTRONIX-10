@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="K S Abhishek - AI and LLM Engineer, FastAPI, Mobile Applications">
+<defs>
+<pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#000000" stroke-opacity="0.035"/></pattern>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0.55" stop-color="#ffffff" stop-opacity="1"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect width="1280" height="400" rx="24"/></clipPath>
+<style>
+.s{font-family:'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
+.m{font-family:'JetBrains Mono','SF Mono',Consolas,Menlo,monospace}
+.p{stroke-dasharray:10 100;stroke-dashoffset:110;animation:flow 3.2s linear infinite}
+.n{animation:glow 3.2s ease-in-out infinite}
+.dot{animation:blink 1.6s ease-in-out infinite}
+@keyframes flow{to{stroke-dashoffset:0}}
+@keyframes glow{0%,100%{opacity:.25}50%{opacity:1}}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+</style></defs>
+<g clip-path="url(#c)">
+<rect width="1280" height="400" fill="#ffffff"/><rect width="1280" height="400" fill="url(#g)"/>
+<line x1="860" y1="148" x2="965" y2="96" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="860" y1="148" x2="965" y2="148" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="860" y1="148" x2="965" y2="200" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="860" y1="148" x2="965" y2="252" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="860" y1="148" x2="965" y2="304" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="860" y1="200" x2="965" y2="96" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="860" y1="200" x2="965" y2="148" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="860" y1="200" x2="965" y2="200" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="860" y1="200" x2="965" y2="252" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="860" y1="200" x2="965" y2="304" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="860" y1="252" x2="965" y2="96" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="860" y1="252" x2="965" y2="148" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="860" y1="252" x2="965" y2="200" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="860" y1="252" x2="965" y2="252" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="860" y1="252" x2="965" y2="304" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="96" x2="1070" y2="96" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="96" x2="1070" y2="148" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="96" x2="1070" y2="200" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="96" x2="1070" y2="252" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="96" x2="1070" y2="304" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="148" x2="1070" y2="96" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="148" x2="1070" y2="148" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="148" x2="1070" y2="200" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="148" x2="1070" y2="252" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="148" x2="1070" y2="304" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="200" x2="1070" y2="96" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="200" x2="1070" y2="148" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="200" x2="1070" y2="200" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="200" x2="1070" y2="252" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="200" x2="1070" y2="304" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="252" x2="1070" y2="96" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="252" x2="1070" y2="148" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="252" x2="1070" y2="200" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="252" x2="1070" y2="252" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="252" x2="1070" y2="304" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="304" x2="1070" y2="96" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="304" x2="1070" y2="148" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="304" x2="1070" y2="200" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="304" x2="1070" y2="252" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="965" y1="304" x2="1070" y2="304" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="1070" y1="96" x2="1175" y2="174" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="1070" y1="96" x2="1175" y2="226" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="1070" y1="148" x2="1175" y2="174" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="1070" y1="148" x2="1175" y2="226" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="1070" y1="200" x2="1175" y2="174" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="1070" y1="200" x2="1175" y2="226" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="1070" y1="252" x2="1175" y2="174" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="1070" y1="252" x2="1175" y2="226" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="1070" y1="304" x2="1175" y2="174" stroke="#e4e4e7" stroke-width="1"/>
+<line x1="1070" y1="304" x2="1175" y2="226" stroke="#e4e4e7" stroke-width="1"/>
+<line class="p" pathLength="100" style="animation-delay:0.00s" x1="965" y1="148" x2="1070" y2="96" stroke="#0d9488" stroke-width="1.6" stroke-linecap="round"/>
+<line class="p" pathLength="100" style="animation-delay:0.32s" x1="860" y1="200" x2="965" y2="304" stroke="#0d9488" stroke-width="1.6" stroke-linecap="round"/>
+<line class="p" pathLength="100" style="animation-delay:0.64s" x1="965" y1="200" x2="1070" y2="96" stroke="#0d9488" stroke-width="1.6" stroke-linecap="round"/>
+<line class="p" pathLength="100" style="animation-delay:0.96s" x1="1070" y1="96" x2="1175" y2="226" stroke="#0d9488" stroke-width="1.6" stroke-linecap="round"/>
+<line class="p" pathLength="100" style="animation-delay:1.28s" x1="860" y1="148" x2="965" y2="252" stroke="#0d9488" stroke-width="1.6" stroke-linecap="round"/>
+<line class="p" pathLength="100" style="animation-delay:1.60s" x1="860" y1="148" x2="965" y2="304" stroke="#0d9488" stroke-width="1.6" stroke-linecap="round"/>
+<line class="p" pathLength="100" style="animation-delay:1.92s" x1="965" y1="252" x2="1070" y2="304" stroke="#0d9488" stroke-width="1.6" stroke-linecap="round"/>
+<line class="p" pathLength="100" style="animation-delay:2.24s" x1="860" y1="200" x2="965" y2="148" stroke="#0d9488" stroke-width="1.6" stroke-linecap="round"/>
+<line class="p" pathLength="100" style="animation-delay:2.56s" x1="965" y1="148" x2="1070" y2="252" stroke="#0d9488" stroke-width="1.6" stroke-linecap="round"/>
+<line class="p" pathLength="100" style="animation-delay:2.88s" x1="965" y1="304" x2="1070" y2="200" stroke="#0d9488" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="860" cy="148" r="7" fill="#ffffff" stroke="#d4d4d8" stroke-width="1.5"/>
+<circle class="n" style="animation-delay:0.00s" cx="860" cy="148" r="3" fill="#0d9488"/>
+<circle cx="860" cy="200" r="7" fill="#ffffff" stroke="#d4d4d8" stroke-width="1.5"/>
+<circle class="n" style="animation-delay:0.25s" cx="860" cy="200" r="3" fill="#0d9488"/>
+<circle cx="860" cy="252" r="7" fill="#ffffff" stroke="#d4d4d8" stroke-width="1.5"/>
+<circle class="n" style="animation-delay:0.50s" cx="860" cy="252" r="3" fill="#0d9488"/>
+<circle cx="965" cy="96" r="7" fill="#ffffff" stroke="#d4d4d8" stroke-width="1.5"/>
+<circle class="n" style="animation-delay:0.60s" cx="965" cy="96" r="3" fill="#0d9488"/>
+<circle cx="965" cy="148" r="7" fill="#ffffff" stroke="#d4d4d8" stroke-width="1.5"/>
+<circle class="n" style="animation-delay:0.85s" cx="965" cy="148" r="3" fill="#0d9488"/>
+<circle cx="965" cy="200" r="7" fill="#ffffff" stroke="#d4d4d8" stroke-width="1.5"/>
+<circle class="n" style="animation-delay:1.10s" cx="965" cy="200" r="3" fill="#0d9488"/>
+<circle cx="965" cy="252" r="7" fill="#ffffff" stroke="#d4d4d8" stroke-width="1.5"/>
+<circle class="n" style="animation-delay:1.35s" cx="965" cy="252" r="3" fill="#0d9488"/>
+<circle cx="965" cy="304" r="7" fill="#ffffff" stroke="#d4d4d8" stroke-width="1.5"/>
+<circle class="n" style="animation-delay:1.60s" cx="965" cy="304" r="3" fill="#0d9488"/>
+<circle cx="1070" cy="96" r="7" fill="#ffffff" stroke="#d4d4d8" stroke-width="1.5"/>
+<circle class="n" style="animation-delay:1.20s" cx="1070" cy="96" r="3" fill="#0d9488"/>
+<circle cx="1070" cy="148" r="7" fill="#ffffff" stroke="#d4d4d8" stroke-width="1.5"/>
+<circle class="n" style="animation-delay:1.45s" cx="1070" cy="148" r="3" fill="#0d9488"/>
+<circle cx="1070" cy="200" r="7" fill="#ffffff" stroke="#d4d4d8" stroke-width="1.5"/>
+<circle class="n" style="animation-delay:1.70s" cx="1070" cy="200" r="3" fill="#0d9488"/>
+<circle cx="1070" cy="252" r="7" fill="#ffffff" stroke="#d4d4d8" stroke-width="1.5"/>
+<circle class="n" style="animation-delay:1.95s" cx="1070" cy="252" r="3" fill="#0d9488"/>
+<circle cx="1070" cy="304" r="7" fill="#ffffff" stroke="#d4d4d8" stroke-width="1.5"/>
+<circle class="n" style="animation-delay:2.20s" cx="1070" cy="304" r="3" fill="#0d9488"/>
+<circle cx="1175" cy="174" r="7" fill="#ffffff" stroke="#d4d4d8" stroke-width="1.5"/>
+<circle class="n" style="animation-delay:1.80s" cx="1175" cy="174" r="3" fill="#0d9488"/>
+<circle cx="1175" cy="226" r="7" fill="#ffffff" stroke="#d4d4d8" stroke-width="1.5"/>
+<circle class="n" style="animation-delay:2.05s" cx="1175" cy="226" r="3" fill="#0d9488"/>
+<rect width="760" height="400" fill="url(#fade)"/>
+<circle class="dot" cx="86" cy="113" r="5" fill="#0d9488"/>
+<text class="m" x="102" y="119" font-size="17" letter-spacing="2" fill="#52525b">@OPTRONIX-10</text>
+<text class="s" x="80" y="200" font-size="76" font-weight="650" letter-spacing="-3" fill="#09090b">K S Abhishek</text>
+<text class="s" x="83" y="252" font-size="28" fill="#52525b"><tspan fill="#09090b" font-weight="600">AI &amp; LLM Engineer</tspan>  —  FastAPI · Mobile Applications</text>
+<text class="m" x="83" y="312" font-size="16" letter-spacing="1.5" fill="#a1a1aa">RAG   /   AGENTS   /   EVALS   /   APIs   /   APPS</text>
+</g>
+<rect x="0.5" y="0.5" width="1279" height="399" rx="24" fill="none" stroke="#e4e4e7"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="AI and LLM, Backend, Mobile">
+<style>.s{font-family:'Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}.m{font-family:'JetBrains Mono','SF Mono',Consolas,Menlo,monospace}</style>
+<g class="f" style="animation-delay:0.00s">
+<rect x="0.5" y="0.5" width="409.7" height="359" rx="20" fill="#ffffff" stroke="#e4e4e7"/>
+<rect x="40.0" y="44" width="24" height="3" rx="1.5" fill="#0d9488"/>
+<text class="m" x="40.0" y="86" font-size="15" letter-spacing="2" fill="#a1a1aa">01  /  INTELLIGENCE</text>
+<text class="s" x="38.0" y="134" font-size="34" font-weight="650" letter-spacing="-1" fill="#09090b">AI &amp; LLM</text>
+<line x1="40.0" y1="162" x2="370.7" y2="162" stroke="#e4e4e7"/>
+<text class="s" x="40.0" y="202" font-size="22" fill="#52525b">RAG pipelines</text>
+<text class="s" x="40.0" y="238" font-size="22" fill="#52525b">Agents &amp; tool use</text>
+<text class="s" x="40.0" y="274" font-size="22" fill="#52525b">Prompting &amp; evals</text>
+<text class="s" x="40.0" y="310" font-size="22" fill="#52525b">LangChain · Hugging Face</text>
+</g>
+<g class="f" style="animation-delay:0.15s">
+<rect x="435.2" y="0.5" width="409.7" height="359" rx="20" fill="#ffffff" stroke="#e4e4e7"/>
+<rect x="474.7" y="44" width="24" height="3" rx="1.5" fill="#0d9488"/>
+<text class="m" x="474.7" y="86" font-size="15" letter-spacing="2" fill="#a1a1aa">02  /  SERVING</text>
+<text class="s" x="472.7" y="134" font-size="34" font-weight="650" letter-spacing="-1" fill="#09090b">Backend</text>
+<line x1="474.7" y1="162" x2="805.3" y2="162" stroke="#e4e4e7"/>
+<text class="s" x="474.7" y="202" font-size="22" fill="#52525b">FastAPI · Python</text>
+<text class="s" x="474.7" y="238" font-size="22" fill="#52525b">Node.js · Express</text>
+<text class="s" x="474.7" y="274" font-size="22" fill="#52525b">Next.js</text>
+<text class="s" x="474.7" y="310" font-size="22" fill="#52525b">AWS · Docker</text>
+</g>
+<g class="f" style="animation-delay:0.30s">
+<rect x="869.8" y="0.5" width="409.7" height="359" rx="20" fill="#ffffff" stroke="#e4e4e7"/>
+<rect x="909.3" y="44" width="24" height="3" rx="1.5" fill="#0d9488"/>
+<text class="m" x="909.3" y="86" font-size="15" letter-spacing="2" fill="#a1a1aa">03  /  PRODUCT</text>
+<text class="s" x="907.3" y="134" font-size="34" font-weight="650" letter-spacing="-1" fill="#09090b">Mobile</text>
+<line x1="909.3" y1="162" x2="1240.0" y2="162" stroke="#e4e4e7"/>
+<text class="s" x="909.3" y="202" font-size="22" fill="#52525b">Flutter · Dart</text>
+<text class="s" x="909.3" y="238" font-size="22" fill="#52525b">Android · Java</text>
+<text class="s" x="909.3" y="274" font-size="22" fill="#52525b">Firebase · Supabase</text>
+<text class="s" x="909.3" y="310" font-size="22" fill="#52525b">Figma → shipped UI</text>
+</g>
+</svg>
