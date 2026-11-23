@@ -109,7 +109,7 @@
 <circle class="dot" cx="86" cy="113" r="5" fill="#5eead4"/>
 <text class="m" x="102" y="119" font-size="17" letter-spacing="2" fill="#a1a1aa">@OPTRONIX-10</text>
 <text class="s" x="80" y="200" font-size="76" font-weight="650" letter-spacing="-3" fill="#fafafa">K S Abhishek</text>
-<text class="s" x="83" y="252" font-size="28" fill="#a1a1aa"><tspan fill="#fafafa" font-weight="600">AI &amp; LLM Engineer</tspan>  —  FastAPI · Mobile Applications</text>
+<text class="s" x="83" y="252" font-size="28" fill="#a1a1aa"><tspan fill="#fafafa" font-weight="600">AI &amp; LLM Engineer</tspan>  ·  FastAPI · Mobile Applications</text>
 <text class="m" x="83" y="312" font-size="16" letter-spacing="1.5" fill="#52525b">RAG   /   AGENTS   /   EVALS   /   APIs   /   APPS</text>
 </g>
 <rect x="0.5" y="0.5" width="1279" height="399" rx="24" fill="none" stroke="#1f1f23"/>

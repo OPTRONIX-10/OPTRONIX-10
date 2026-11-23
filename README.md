@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
-  <img src="./assets/banner-dark.svg" width="100%" alt="K S Abhishek — AI & LLM Engineer · FastAPI · Mobile Applications" />
+  <img src="./assets/banner-dark.svg" width="100%" alt="K S Abhishek · AI & LLM Engineer · FastAPI · Mobile Applications" />
 </picture>
 
 <p>&nbsp;</p>
 
-<p align="center">I build <b>AI products end to end</b> — LLM pipelines at the core, <b>FastAPI</b> services in the middle,<br/>and <b>mobile apps</b> people actually use on top.</p>
+<p align="center">I build <b>AI products end to end</b>: LLM pipelines at the core, <b>FastAPI</b> services in the middle,<br/>and <b>mobile apps</b> people actually use on top.</p>
 
 <p>&nbsp;</p>
 
